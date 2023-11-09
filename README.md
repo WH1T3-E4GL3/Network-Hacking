@@ -3,7 +3,7 @@ This is an article you can read through basic to almost advanced level network h
 
 # Network Hacking Basic to Intermediated
 
-(Click Here)[]
+![Click Here](https://github.com/WH1T3-E4GL3/Network-Hacking/blob/main/Network_hacking_basic-intermediated.md)
 
 # Network Hacking Intermediate to Advanced
 
