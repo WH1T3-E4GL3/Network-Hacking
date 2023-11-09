@@ -765,6 +765,6 @@ There are also switches that monitor this and notify us.
 
 <--------------------- END OF BASIC NETWORK HACKING --------------------->
 
-✅LINK TO NETWORK HACKING ADVANCED : https://github.com/WH1T3-E4GL3/Network-Hacking-advanced
+![LINK TO NETWORK HACKING ADVANCED](https://github.com/WH1T3-E4GL3/Network-Hacking/blob/main/Network_Hacking_Intermediate_to_Advanced.md)
 
 ~whxite
