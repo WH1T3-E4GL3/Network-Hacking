@@ -6,8 +6,8 @@ This is an article for studying about network hacking related matters. All the c
 
 From here we will discuss intermediate to advanced network hacking and bypass meathods..
 
-First of all if you didn't study the basic network hacking you need to read it first and come back here. Link to the basic network hacking : https://github.com/WH1T3-E4GL3/Network-Hacking/blob/main/README.md
-
+First of all if you didn't study the basic network hacking you need to read it first and come back here. Link to the basic network hacking : [Basic Level
+](https://github.com/WH1T3-E4GL3/Network-Hacking/blob/main/Network_hacking_basic-intermediated.md)
 If you don't read the basic one... you will be unfamiliar with many terms, so do it first and only learn this.
 
 
